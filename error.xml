@@ -1,0 +1,72 @@
+<errorentry>
+	<datetime>2022-06-06 23:40:08 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED' (this will throw an Error in a future version of PHP)</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>54</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:40:08 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Division by zero</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>56</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:40:31 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED' (this will throw an Error in a future version of PHP)</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>54</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:40:31 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Division by zero</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>56</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:45:59 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED' (this will throw an Error in a future version of PHP)</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>54</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:45:59 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Division by zero</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>56</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:47:54 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Use of undefined constant I_AM_NOT_DEFINED - assumed 'I_AM_NOT_DEFINED' (this will throw an Error in a future version of PHP)</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>54</scriptlinenum>
+</errorentry>
+
+<errorentry>
+	<datetime>2022-06-06 23:47:54 (UTC)</datetime>
+	<errornum>2</errornum>
+	<errortype>Alerte</errortype>
+	<errormsg>Division by zero</errormsg>
+	<scriptname>C:\wamp64\www\MVC\app\erreur.php</scriptname>
+	<scriptlinenum>56</scriptlinenum>
+</errorentry>
+

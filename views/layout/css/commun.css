@@ -1,0 +1,97 @@
+h1 {
+   font-family: 'GeometricSansSerifv1Regular';
+   font-weight: normal;
+   font-style: normal;
+   color: white;
+}
+h2 a {
+	font-family: 'ArcoPerpetuoRegular';
+	font-weight: normal;
+	font-style: normal;
+	color: #343a40;
+}
+p {
+	font-family: 'ArcoPerpetuoRegular';
+	font-weight: normal;
+	font-style: normal;
+	color: #8d9094;
+}
+main {
+	position: absolute;
+	left: 0;
+	top: 23%;
+}
+footer {
+	position: absolute;
+	top: 160%;
+	left: 0;
+	width: 100%;
+	height: 15%;
+	background-color: #343a40; 
+	color: white;
+	text-align: center;
+}
+.carousel-inner .img {
+    width: 95vw;
+    height: 95vh;
+}
+img {
+    width: 30vw;
+    height: 30vh;
+    margin-left: 26px;
+    margin-top: 15px;
+}
+.img-hover {
+  border-radius: 25px;
+  transition: 1s box-shadow;
+}
+.img-hover:hover {
+  box-shadow: 0 5px 35px 0px #343a40;
+}
+.img-hover:hover::before, .img-hover:hover::after {
+  background: #8d9094;
+  border-radius: 25px;
+  z-index: -1;
+  animation: 1s clockwise infinite;
+}
+.img-hover:hover:after {
+  background: #000000;
+  animation: 1s counterclockwise infinite;
+}
+
+@media screen and (orientation:landscape), screen and (orientation:portrait) and (min-width:720px) {
+	.carousel-inner .img {
+		width: 95vw;
+		height: 95vh;
+    }
+    img {
+    	width: 30vw;
+    	height: 30vh;
+    	margin-left: 26px;
+    	margin-top: 15px;
+    }
+}
+@media screen and (orientation:portrait) and (min-width:480px) and (max-width:719px) {
+	.carousel-inner .img {
+		width: 85vw;
+		height: 85vh;
+	}
+	img {
+		width: 25vw;
+		height: 25vh;
+		margin-left: 36px;
+		margin-top: 30px;
+	}
+}
+@media screen and (max-width:479px) {
+	.carousel-inner .img {
+		width: 92vw;
+		height: 75vh;
+	}
+	img {
+	    width: 20vw;
+	   	height: 20vh;
+	   	margin-left: 10px;
+	   	margin-top: 125px;
+	}
+}
